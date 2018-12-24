@@ -32,6 +32,6 @@ put your answer here
 
 put your answer here
 
-## How many instances of the the databases connected to the server application are created?
+## How many instances of the databases connected to the server application are created?
 
 put your answer here
